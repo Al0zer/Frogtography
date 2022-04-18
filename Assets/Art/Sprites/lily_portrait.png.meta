@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 4775b9ec68e4e344cb4824408e138c5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1298163521673956926
+    second: lily_portrait_0
+  - first:
+      213: -3390477529964342104
+    second: lily_portrait_1
+  - first:
+      213: -2118973113361997766
+    second: lily_portrait_2
+  - first:
+      213: 7312962108444211121
+    second: lily_portrait_3
+  - first:
+      213: -5654735918306762098
+    second: lily_portrait_4
+  - first:
+      213: 4235909647942198350
+    second: lily_portrait_5
+  - first:
+      213: 6113748941881686039
+    second: lily_portrait_6
+  - first:
+      213: 4924829675021296949
+    second: lily_portrait_7
+  - first:
+      213: -6195649236695820973
+    second: lily_portrait_8
+  - first:
+      213: -6316891207153282371
+    second: lily_portrait_9
+  - first:
+      213: 5903871889001948303
+    second: lily_portrait_10
+  - first:
+      213: 7362391564098922058
+    second: lily_portrait_11
+  - first:
+      213: -5857930287072111647
+    second: lily_portrait_12
+  - first:
+      213: 2821760775179849474
+    second: lily_portrait_13
+  - first:
+      213: 2500447477074239316
+    second: lily_portrait_14
+  - first:
+      213: 4836797585285513128
+    second: lily_portrait_15
+  - first:
+      213: -957213908434095647
+    second: lily_portrait_16
+  - first:
+      213: -1701650296242796012
+    second: lily_portrait_17
+  - first:
+      213: -8497347624009358560
+    second: lily_portrait_18
+  - first:
+      213: 6206249287285785112
+    second: lily_portrait_19
+  - first:
+      213: 2861965173365831434
+    second: lily_portrait_20
+  - first:
+      213: -6066495875779688612
+    second: lily_portrait_21
+  - first:
+      213: -7884248061138958165
+    second: lily_portrait_22
+  - first:
+      213: -3427199386019528324
+    second: lily_portrait_23
+  - first:
+      213: 18983871100793655
+    second: lily_portrait_24
+  - first:
+      213: -4371798425507259885
+    second: lily_portrait_25
+  - first:
+      213: -6982951708444098045
+    second: lily_portrait_26
+  - first:
+      213: -7983180924493198738
+    second: lily_portrait_27
+  - first:
+      213: -7563158972632972593
+    second: lily_portrait_28
+  - first:
+      213: 9126186223875839403
+    second: lily_portrait_29
+  - first:
+      213: 7462231903447072303
+    second: lily_portrait_30
+  - first:
+      213: -6884338694128626753
+    second: lily_portrait_31
+  - first:
+      213: -3646843754576742546
+    second: lily_portrait_32
+  - first:
+      213: 8723924792920456346
+    second: lily_portrait_33
+  - first:
+      213: 3652335869404340399
+    second: lily_portrait_34
+  - first:
+      213: 6521065016606344084
+    second: lily_portrait_35
+  - first:
+      213: -7943441940162263540
+    second: lily_portrait_36
+  - first:
+      213: -3329788588327036170
+    second: lily_portrait_37
+  - first:
+      213: -4525886192835146110
+    second: lily_portrait_38
+  - first:
+      213: -4055066943642270283
+    second: lily_portrait_39
+  - first:
+      213: -328670457186150749
+    second: lily_portrait_40
+  - first:
+      213: 3601668899098880016
+    second: lily_portrait_41
+  - first:
+      213: -4248196243900373326
+    second: lily_portrait_42
+  - first:
+      213: 7356934509956533461
+    second: lily_portrait_43
+  - first:
+      213: 3326683534895290699
+    second: lily_portrait_44
+  - first:
+      213: -3804752305165408519
+    second: lily_portrait_45
+  - first:
+      213: -2737279293289692294
+    second: lily_portrait_46
+  - first:
+      213: 7625126818573855754
+    second: lily_portrait_47
+  - first:
+      213: -1218358649891905651
+    second: lily_portrait_48
+  - first:
+      213: 8928869432744860427
+    second: lily_portrait_49
+  - first:
+      213: -1267493331992640207
+    second: lily_portrait_50
+  - first:
+      213: 6431131416568042951
+    second: lily_portrait_51
+  - first:
+      213: -4840829909267411601
+    second: lily_portrait_52
+  - first:
+      213: -1772529146177662805
+    second: lily_portrait_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lily_portrait_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f04ea72ffbfde0800000000000000
+      internalID: -1298163521673956926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4188766aa92f0d0800000000000000
+      internalID: -3390477529964342104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3064712e25e792e0800000000000000
+      internalID: -2118973113361997766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_3
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b775b9ba4cdc7560800000000000000
+      internalID: 7312962108444211121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_4
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82eea274a75681b0800000000000000
+      internalID: -5654735918306762098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_5
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ae3ac169f8ca30800000000000000
+      internalID: 4235909647942198350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_6
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71837c6454668d450800000000000000
+      internalID: 6113748941881686039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_7
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53562fe1f72885440800000000000000
+      internalID: 4924829675021296949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_8
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35553dd58d1a40aa0800000000000000
+      internalID: -6195649236695820973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_9
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db217d85ae4e558a0800000000000000
+      internalID: -6316891207153282371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_10
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842067f334cee150800000000000000
+      internalID: 5903871889001948303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_11
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e273be187c2660800000000000000
+      internalID: 7362391564098922058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_12
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e39018c07374bea0800000000000000
+      internalID: -5857930287072111647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_13
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc9b58978e82720800000000000000
+      internalID: 2821760775179849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_14
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f18828bbf53b220800000000000000
+      internalID: 2500447477074239316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_15
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aff86107c1cf1340800000000000000
+      internalID: 4836797585285513128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_16
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f8b5950b47b2f0800000000000000
+      internalID: -957213908434095647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_17
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 948
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a828042168268e0800000000000000
+      internalID: -1701650296242796012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a9e95b5b531a80800000000000000
+      internalID: -8497347624009358560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c03c38d6012650800000000000000
+      internalID: 6206249287285785112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_20
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07720e692eb7b720800000000000000
+      internalID: 2861965173365831434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_21
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5787c4842a7fcba0800000000000000
+      internalID: -6066495875779688612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_22
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba800c23926859290800000000000000
+      internalID: -7884248061138958165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_23
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c718ed501542070d0800000000000000
+      internalID: -3427199386019528324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_24
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733bc6deab1734000800000000000000
+      internalID: 18983871100793655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_25
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a170aae704453c0800000000000000
+      internalID: -4371798425507259885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_26
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3028b7e1b62971f90800000000000000
+      internalID: -6982951708444098045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_27
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a88e1fe3b063190800000000000000
+      internalID: -7983180924493198738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_28
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc247685cf24a0790800000000000000
+      internalID: -7563158972632972593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_29
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5de2c940ab6ae70800000000000000
+      internalID: 9126186223875839403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_30
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebc8c216c2f8760800000000000000
+      internalID: 7462231903447072303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_31
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39cf6be6ae570a0800000000000000
+      internalID: -6884338694128626753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_32
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f9115deec36dc0800000000000000
+      internalID: -3646843754576742546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_33
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3f39b06b911970800000000000000
+      internalID: 8723924792920456346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_34
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa063405f14bfa230800000000000000
+      internalID: 3652335869404340399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_35
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 474
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934c00251a7f7a50800000000000000
+      internalID: 6521065016606344084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0640be34a933c190800000000000000
+      internalID: -7943441940162263540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_37
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1e9fbbe63ac1d0800000000000000
+      internalID: -3329788588327036170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_38
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e473e9c72d031c0800000000000000
+      internalID: -4525886192835146110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_39
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b506c3791289b7c0800000000000000
+      internalID: -4055066943642270283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_40
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61147e5f3507bf0800000000000000
+      internalID: -328670457186150749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_41
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186c5108c2bbf130800000000000000
+      internalID: 3601668899098880016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_42
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b66b2a26006b05c0800000000000000
+      internalID: -4248196243900373326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_43
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc85c545f4191660800000000000000
+      internalID: 7356934509956533461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_44
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491399ac01ca2e20800000000000000
+      internalID: 3326683534895290699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_45
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f66448dfedc23bc0800000000000000
+      internalID: -3804752305165408519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_46
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738f684cfa330ad0800000000000000
+      internalID: -2737279293289692294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_47
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c266c1174e1d960800000000000000
+      internalID: 7625126818573855754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_48
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1b285345871fe0800000000000000
+      internalID: -1218358649891905651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_49
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bd9902177b9eb70800000000000000
+      internalID: 8928869432744860427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_50
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135076fa785f86ee0800000000000000
+      internalID: -1267493331992640207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_51
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5946423f7ff3950800000000000000
+      internalID: 6431131416568042951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_52
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d870868dae1dcb0800000000000000
+      internalID: -4840829909267411601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_portrait_53
+      rect:
+        serializedVersion: 2
+        x: 6902
+        y: 0
+        width: 406
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0dd000226b667e0800000000000000
+      internalID: -1772529146177662805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
