@@ -10,6 +10,10 @@ public class PreLevelManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+       /* try
+        {
+
+        }*/
         GameObject.FindGameObjectWithTag("Music").GetComponent<MusicPlayer>().StopMusic();
         Time.timeScale = 0f;
     }

@@ -59,16 +59,13 @@ public class PhotoCapture : MonoBehaviour
                 if (Input.GetKeyDown("space"))
                 {
                     StartCoroutine(CapturePhoto());
+                    StartCoroutine(DisableScoreTriggers());
                 }
             }
 
             else
             {
                 cameraFrame.SetActive(false);
-
-                inFrameTrigger.enabled = false;
-                goodTrigger.enabled = false;
-                perfectTrigger.enabled = false;
             }
         }
 
@@ -102,6 +99,16 @@ public class PhotoCapture : MonoBehaviour
         screenCapture.ReadPixels(regionToCapture, 0, 0, false);
         screenCapture.Apply();
         ShowPhoto();
+    }
+
+    // Disables colliders only after a full fixed cycle can occur
+    // made by michael on january 21st 2023 at the alley on bayview we got the funny chainsaw man drinks hehe :)
+    IEnumerator DisableScoreTriggers()
+    {
+        yield return new WaitForFixedUpdate();
+        inFrameTrigger.enabled = false;
+        goodTrigger.enabled = false;
+        perfectTrigger.enabled = false;
     }
 
     void ShowPhoto()
