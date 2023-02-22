@@ -11,7 +11,7 @@ their frogs. You might even befriend them!
 ## HOW TO PLAY
 **Run the .exe file under the Builds folder to start playing!**
 
-In each level, you must try to reach the minimum score to win. Earn points by taking pictures of frogs (and _only_ frogs). As the levels progress, the minimum score will increase, and you'll notice the frogs will start to speed up! Furthermore, you might start to run into some enemies. If you take a picture of them, you'll lose points, so be careful!  
+In each level, you must try to reach the minimum score to win. Earn points by taking pictures of frogs (and only frogs). You also have a limited number of film for each level. The level will end once you run out of film. As the levels progress, the minimum score and number of film will increase, and you'll notice the frogs will start to speed up! Furthermore, you might start to run into some enemies. If you take a picture of them, you'll lose points, so be careful! 
 
 Move your camera around the screen using the **WASD** keys. To focus your camera, hold down on **LEFT SHIFT**. While focused, you can snap a shot by pressing **SPACE**! 
 
