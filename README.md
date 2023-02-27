@@ -19,3 +19,5 @@ While focused, you'll notice a cross-hair in the center of the frame. This is im
 
 ## EXTRA INFO
 Made in Unity. All sprites, backgrounds, UI elements and additional 2D assets were hand drawn by me. I do not own any of the music used in this game. 
+
+WebGL Build: https://al0zer.itch.io/frogtography?secret=GmYuGSBHI8Uzs4WbzexyCoqygU
